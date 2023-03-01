@@ -1,4 +1,8 @@
 # JolprGit
+Applica,Inc.
+By Jose Lara
+2023-02-28
+
 Documentación de flujo de trabajo remoto con GIT
 
 ## Organización
