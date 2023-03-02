@@ -1,7 +1,6 @@
-# JolprGit
-Applica,Inc.
+# Applica,Inc.
 By Jose Lara
-Version: 2023-03-02
+#### Version: `12023-03-02`
 
 Documentación de flujo de trabajo remoto con GIT
 #
