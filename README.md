@@ -37,3 +37,17 @@ Eliminar remotos
 Es necesario entender que las etiqutas (o releases) sólo deben ser creadas a partil de la rama master como buena práctica.
 
 Para entender como llamar o categorizar a tus versiones  te recomendamos un articulo en https://ed.team/blog/como-se-deciden-las-versiones-del-software
+
+
+## Notas:
+git log --oneline --all
+git remote -v
+git status
+git commit -am "add info"
+git push origin main
+git pull upstream dev
+git fetch upstream
+git branch -D agrega-colaborador create-tags
+git stash
+git stash list
+git stash pop
