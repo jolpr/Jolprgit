@@ -6,20 +6,20 @@ Version: 2023-03-02
 Documentación de flujo de trabajo remoto con GIT
 #
 ## Notas
-1: Crear una organización
-2: Crear un proyecto dentro de la organización
-3: Si el proyecto es privado agregar a todos los colaboradores
-4: Cada colaborador debe tener un Fork en su cuenta
-5: Cada desarrollador debe clonar su fork a su máquina 
-6: El programador debe agregar los remotos correspondientes del proyecto original
-7: Se debe asegurar que todos este correcto sincronizado
-8: Se creará una nueva rama para trabajar una funcionalidad
-9: Una vez terminado el trabajo, el desarrollador sube (push) esa rama a su fork
-10: En GitHub le aparecerá la opción de crear un Pull Request
-11: Una vez creado el pull request el administrador del proyecto original lo revisará
-12: Se aprueba o se rechaza el Pull Request (esto es por el administrador del proyecto)
-13: Cada programador debe revisar constantemente (fetch) si no hay cambios en el proyecto original
-14: Se debe eliminar las ramas que ya fueron aprobadas o rechazadas (esto lo hace cada programador en su fork)   
+1. Crear una organización
+2. Crear un proyecto dentro de la organización
+3. Si el proyecto es privado agregar a todos los colaboradores
+4. Cada colaborador debe tener un Fork en su cuenta
+5. Cada desarrollador debe clonar su fork a su máquina 
+6. El programador debe agregar los remotos correspondientes del proyecto original
+7. Se debe asegurar que todos este correcto sincronizado
+8. Se creará una nueva rama para trabajar una funcionalidad
+9. Una vez terminado el trabajo, el desarrollador sube (push) esa rama a su fork
+10. En GitHub le aparecerá la opción de crear un Pull Request
+11. Una vez creado el pull request el administrador del proyecto original lo revisará
+12. Se aprueba o se rechaza el Pull Request (esto es por el administrador del proyecto)
+13. Cada programador debe revisar constantemente (fetch) si no hay cambios en el proyecto original
+14. Se debe eliminar las ramas que ya fueron aprobadas o rechazadas (esto lo hace cada programador en su fork)   
 #
 ## Organización (Administrador del proyecto)
 
