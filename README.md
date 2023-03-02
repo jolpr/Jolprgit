@@ -40,6 +40,10 @@ Para entender como llamar o categorizar a tus versiones  te recomendamos un arti
 
 
 ## Notas:
+git branch dev
+git branch
+git checkout dev
+git switch dev
 git log --oneline --all
 git remote -v
 git status
@@ -47,7 +51,8 @@ git commit -am "add info"
 git push origin main
 git pull upstream dev
 git fetch upstream
-git branch -D agrega-colaborador create-tags
+git branch -D agrega-colaborador create-tags  (Delte local)
+git push origin --delete create-tags (Delete remote)
 git stash
 git stash list
 git stash pop
