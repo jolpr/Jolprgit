@@ -31,3 +31,9 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove jolpr`
+
+## Creando Tags
+
+Es necesario entender que las etiqutas (o releases) sólo deben ser creadas a partil de la rama master como buena práctica.
+
+Para entender como llamar o categorizar a tus versiones  te recomendamos un articulo en https://ed.team/blog/como-se-deciden-las-versiones-del-software
