@@ -64,7 +64,9 @@ Ejemplo: git tag "v0.0.1"
 2. git branch
 3. git checkout dev
 4. git switch dev
-5. git log --oneline --all
+5. git log --oneline --all   (https://git-scm.com/docs/git-log/)
+    - git log --oneline -n 4 (only 4 lines)
+    - git log --oneline --all --graph --decorate
 6. git remote -v
 7. git status
 8. git commit -am "add info"
@@ -77,3 +79,15 @@ Ejemplo: git tag "v0.0.1"
 15. git stash list
 16. git stash pop
 17. git tag "v0.0.1"
+18. git checkout -f (remove all changes in the que)
+19. git checkout [hash commit] (change by commit)
+20. git restore --staged [File name] (revert changes)
+21. git diff [File name]
+22. git merge 
+
+## software adicionales para trabajar con git  
+- GitKraken
+- Sourcetree
+
+## Plugin
+- GitLens (para VSCode)
