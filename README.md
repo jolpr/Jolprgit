@@ -56,7 +56,10 @@ Es necesario entender que las etiquetas (o releases) sólo deben ser creadas a p
 
 Para entender como llamar o categorizar a tus versiones  te recomendamos un articulo en https://ed.team/blog/como-se-deciden-las-versiones-del-software
 
-Ejemplo: git tag "v0.0.1"
+Ejemplo: 
+- git tag "v0.0.1" (create tag)
+- git push origin <tag_name> (To push a single tag)
+- git push --tags (push all tags)
 
 #
 ## CMD
