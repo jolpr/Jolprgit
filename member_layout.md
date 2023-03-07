@@ -4,7 +4,7 @@
 
 | Field Name    | Type     | Len | Index | Description         | Comment             |
 |---------------|:--------:|:---:|:-----:|:--------------------|:--------------------|
-|MemberId       | Varchar  | 10  |       | Member Number       |                     |
+|MemberId       | Varchar  | 13  |  Yes  | Member Number       | Key                 |
 |FirstName      | Varchar  | 30  |       | First Name          |                     |
 |MiddelName     | Varchar  |  1  |       | Middel Name         |                     |
 |LastName       | Varchar  | 30  |       | Last Name           |                     |
