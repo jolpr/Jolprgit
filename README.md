@@ -87,6 +87,11 @@ Ejemplo:
 20. git restore --staged [File name] (revert changes)
 21. git diff [File name]
 22. git merge 
+23. git rm -rf --cached .  
+    - cached (only remove from the index)
+    - r (allow recursive removal)
+    - f (force override the up-to-date check)
+
 
 ## software adicionales para trabajar con git  
 - GitKraken
